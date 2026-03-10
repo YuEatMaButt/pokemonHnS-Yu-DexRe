@@ -297,9 +297,9 @@ NewBarkTown_PlayersHouse_1F_Text_MomsFriend:
 	.string "Hi, {PLAYER}!\p"
 	.string "I'm visiting!\p"
 	.string "Have you heard?\p"
-	.string "My daughter is adamant about\n"
-	.string "becoming PROF.ELM's assistant.\p"
-	.string "She really loves POKéMON!$"
+	.string "I am setting up a premier\n"
+	.string "battle destination for elite trainers.\p"
+	.string "Maybe one day I'll see you there!$"
 
 NewBarkTown_PlayersHouse_1F_Text_MomLeaving1:
 	.string "MOM: Wow, that's a cute POKéMON.\n"

@@ -361,7 +361,7 @@ PokemonLeague_ChampionsRoom_Text_BattleAfter:
 
 PokemonLeague_ChampionsRoom_Text_MaryOhNoOak:
     .string "MARY: Oh, no! It's all over!\p"
-    .string "PROF.OAK, if you weren't so slow…$"
+    .string "I have to see {PLAYER} before its too late!$"
 
 PokemonLeague_ChampionsRoom_Text_OakCongratulations:
     .string "PROF.OAK: Ah, {PLAYER}!\p"
@@ -396,12 +396,12 @@ PokemonLeague_ChampionsRoom_Text_RematchOakCongratulations:
     .string "{PLAYER}!$"
 
 PokemonLeague_ChampionsRoom_Text_MaryInterview:
-    .string "MARY: Let's interview the brand new\n"
-    .string "JOHTO CHAMPION!$"
+    .string "MARY: Have you heard about the all new\n"
+    .string "BATTLE FRONTIER!!$"
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryInterview:
-    .string "MARY: Let's interview the brand new\n"
-    .string "KANTO CHAMPION!$"
+    .string "MARY: Let's interview the incredibly fantastic\n"
+    .string "JOHTO & KANTO CHAMPION!$"
 
 PokemonLeague_ChampionsRoom_Text_Noisy:
     .string "LANCE: This is getting to be a bit\n"
@@ -409,10 +409,10 @@ PokemonLeague_ChampionsRoom_Text_Noisy:
     .string "{PLAYER}, could you come with me?$"
 
 PokemonLeague_ChampionsRoom_Text_MaryNoInterview:
-    .string "MARY: Oh, wait! We haven't done\n"
-    .string "the interview!$"
+    .string "MARY: Make sure you take the ferry\n"
+    .string "in Olivine City!$"
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryNoInterview:
     .string "MARY: Come on! You can't blow off\n"
-    .string "the interview AGAIN!$"
+    .string "the interview!$"
 
